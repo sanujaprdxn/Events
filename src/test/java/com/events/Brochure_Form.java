@@ -27,6 +27,6 @@ public class Brochure_Form {
       }else {
           System.out.println("Brochure form not opened");
       }
-}
   }
+}
 
