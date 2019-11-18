@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Brochure_Form">
     <classes>
-      <class name="Brochure_Form.NewTest"/>
+      <class name="com.events.Brochure_Form"/>
     </classes>
   </test> <!-- Brochure_Form -->
 </suite> <!-- Suite -->
