@@ -44,9 +44,7 @@ String sharedeventname = sharedevent.getText();
 System.out.println("Shared event is "  + sharedeventname);
 if((sharedeventname.contains("War on Cancer 2016"))) {
 System.out.println("Test case for facebook shared functionality is passed");
-}else {
-System.out.println("Test case for facebook shared functionality is fail");
-}
+} else { System.out.println("Test case for facebook shared functionality is fail"); }
 driver.close();
 driver.switchTo().window(parentWindowHandler);
 }
