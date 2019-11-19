@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="112156" started-at="2019-11-19T18:51:04 IST" finished-at="2019-11-19T18:52:57 IST">
+  <suite name="Default suite" duration-ms="53645" started-at="2019-11-19T19:33:22 IST" finished-at="2019-11-19T19:34:16 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="112156" started-at="2019-11-19T18:51:04 IST" finished-at="2019-11-19T18:52:57 IST">
+    <test name="Default test" duration-ms="53645" started-at="2019-11-19T19:33:22 IST" finished-at="2019-11-19T19:34:16 IST">
       <class name="com.events.Share_Functionality">
-        <test-method status="PASS" signature="demofunction()[pri:0, instance:com.events.Share_Functionality@62fdb4a6]" name="demofunction" duration-ms="112009" started-at="2019-11-19T18:51:05 IST" finished-at="2019-11-19T18:52:57 IST">
+        <test-method status="PASS" signature="demofunction()[pri:0, instance:com.events.Share_Functionality@62fdb4a6]" name="demofunction" duration-ms="53475" started-at="2019-11-19T19:33:22 IST" finished-at="2019-11-19T19:34:16 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- demofunction -->
